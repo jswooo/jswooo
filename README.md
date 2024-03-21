@@ -13,7 +13,7 @@
 
  
 #### 🏆 AWARD
-- **[대구 교통사고 피해 예측 경진대회(1등, 대상)](https://github.com/jswooo/DAEGU_AI)**
+- **[DACON 대구 교통사고 피해 예측 경진대회(1등, 대상)](https://github.com/jswooo/DAEGU_AI)**
 - **[삼성증권 '23년 상반기 디지털/IT학회 프로그램(1등, 대상)](https://github.com/jswooo/SAMSUNG-SECURITIES_Project)**
 - **[DACON 감귤 착과량 예측 AI 경진대회(7등, 동상)](https://github.com/jswooo/DACON_citrus_prediction)**
 
