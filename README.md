@@ -20,6 +20,6 @@
 
 #### 📂 ADDITIONAL INFORMATION
 - **[LG Aimers Hackathon(상위 3%)](https://github.com/jswooo/LG_AIMERS)**
-- **[DACON, KIST 상추의 생육 환경 생성 AI 경진대회](https://github.com/jswooo/DACON_lettuce_prediction)**
+- **[DACON, KIST 상추의 생육 환경 생성 AI 경진대회(상위 3%)](https://github.com/jswooo/DACON_lettuce_prediction)**
 - **Big data & AI association club 'BITAmin'**
 
