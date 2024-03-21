@@ -3,7 +3,7 @@
 #### 📚 EDUCATION
 - **Kyung Hee University** (Mar.2016 ~ Aug.2023)
   
-  - Double Major in `Architectural Engineering` and `Mechanical Engineering` / Minor in `Computer Engineering`  
+  - Double Major in `Architectural Engineering` and `Mechanical Engineering`, Minor in `Computer Engineering`  
 
 
 #### 💼 JOB EXPERIENCE
